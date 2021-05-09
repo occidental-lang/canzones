@@ -4,7 +4,6 @@ A G           A G
     Vi tui vive
             A G
 Null revenida
-               A G
 Mem durant dorme
 Noi va trovar te
 
@@ -19,14 +18,13 @@ A G                A G
     Mi propri dessin
                A G
 Mi propri remors
-            A G
 Fa me decider
 Fa me explotar
 
 Em       F#m
 Li libertá e joya
-G          F#m
-Nequo jamá sempre dura
+G              F#m
+quel in fin solmen enoya
 Em   F#m   G     A      G
 Omnes vole reyer li munde
 
@@ -50,5 +48,19 @@ Em           F#m
 sempre un vacillation
 G             F#m
 Junt con un manca de vision
+Em   F#m   G     A      G
+Omnes vole reyer li munde
+
+Em                                      F#m
+  Di que tu ne va, ne va, ne va, ne va besonar
+G               
+  Un titul, pro quo ne vell dubitar
+Em   F#m   G     A      G
+Omnes vole reyer li munde
+
+Em         F#m
+Omni libertá e joya
+G            F#m
+in li fin solmen enoya
 Em   F#m   G     A      G
 Omnes vole reyer li munde
