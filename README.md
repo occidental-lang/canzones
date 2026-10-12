@@ -4,4 +4,8 @@ Nu li Yulmann veni al borg: https://vocaroo.com/1oeNQcxfaslX
 
 Rubi Nasat Renn Rudolf: https://vocaroo.com/1dJHJjIdX4sg
 
-Nivea: https://vocaroo.com/16dUFd9VWIKM
+Nivea: 
+https://vocaroo.com/16dUFd9VWIKM
+
+Lu Old Ante: 
+https://voca.ro/15DugdRsNWtm
